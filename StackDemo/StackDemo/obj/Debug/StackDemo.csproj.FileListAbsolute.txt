@@ -1,0 +1,7 @@
+C:\Users\Billi\source\repos\StackDemo\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\Billi\source\repos\StackDemo\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\Billi\source\repos\StackDemo\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\Billi\source\repos\StackDemo\StackDemo\obj\Debug\StackDemo.csprojResolveAssemblyReference.cache
+C:\Users\Billi\source\repos\StackDemo\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Billi\source\repos\StackDemo\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\Billi\source\repos\StackDemo\StackDemo\obj\Debug\StackDemo.pdb
