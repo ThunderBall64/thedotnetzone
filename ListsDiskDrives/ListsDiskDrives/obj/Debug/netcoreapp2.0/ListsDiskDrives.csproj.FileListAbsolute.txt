@@ -1,0 +1,11 @@
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\bin\Debug\netcoreapp2.0\ListsDiskDrives.deps.json
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\bin\Debug\netcoreapp2.0\ListsDiskDrives.runtimeconfig.json
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\bin\Debug\netcoreapp2.0\ListsDiskDrives.runtimeconfig.dev.json
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\bin\Debug\netcoreapp2.0\ListsDiskDrives.dll
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\bin\Debug\netcoreapp2.0\ListsDiskDrives.pdb
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\obj\Debug\netcoreapp2.0\ListsDiskDrives.csprojResolveAssemblyReference.cache
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\obj\Debug\netcoreapp2.0\ListsDiskDrives.csproj.CoreCompileInputs.cache
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\obj\Debug\netcoreapp2.0\ListsDiskDrives.AssemblyInfoInputs.cache
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\obj\Debug\netcoreapp2.0\ListsDiskDrives.AssemblyInfo.cs
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\obj\Debug\netcoreapp2.0\ListsDiskDrives.dll
+C:\Users\Billi\source\repos\ListsDiskDrives\ListsDiskDrives\obj\Debug\netcoreapp2.0\ListsDiskDrives.pdb
