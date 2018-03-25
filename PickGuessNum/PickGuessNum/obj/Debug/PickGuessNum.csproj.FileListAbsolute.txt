@@ -1,0 +1,7 @@
+c:\users\billi\source\repos\PickGuessNum\PickGuessNum\bin\Debug\PickGuessNum.exe.config
+c:\users\billi\source\repos\PickGuessNum\PickGuessNum\bin\Debug\PickGuessNum.exe
+c:\users\billi\source\repos\PickGuessNum\PickGuessNum\bin\Debug\PickGuessNum.pdb
+c:\users\billi\source\repos\PickGuessNum\PickGuessNum\obj\Debug\PickGuessNum.csprojResolveAssemblyReference.cache
+c:\users\billi\source\repos\PickGuessNum\PickGuessNum\obj\Debug\PickGuessNum.csproj.CoreCompileInputs.cache
+c:\users\billi\source\repos\PickGuessNum\PickGuessNum\obj\Debug\PickGuessNum.exe
+c:\users\billi\source\repos\PickGuessNum\PickGuessNum\obj\Debug\PickGuessNum.pdb
